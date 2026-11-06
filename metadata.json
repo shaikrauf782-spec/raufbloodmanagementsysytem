@@ -1,0 +1,6 @@
+{
+  "name": "Rauf Blood Management System",
+  "description": "Professional Blood Bank Management System with real-time donor tracking, blood inventory management, hospital requests, and automated stock deductions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
